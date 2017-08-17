@@ -12,4 +12,4 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
     Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 The end result is shown in the file tidy.txt.
-e
+
